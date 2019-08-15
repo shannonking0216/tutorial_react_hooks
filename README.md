@@ -1,4 +1,4 @@
-Credit goes to JavaScript Mastery and FreeCodeCamp for this tutorial.
+Origin credits go to JavaScript Mastery and FreeCodeCamp for this tutorial. Thank you.
 
 ## Initial Code
 
